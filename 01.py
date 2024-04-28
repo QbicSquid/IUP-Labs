@@ -17,10 +17,11 @@ ax[1].axis('off')
 ax[2].imshow(img3)
 plt.show()
 
+
 # enlargen image
-# plt.figure(figsize=(10, 10))
-# plt.imshow(img1)
-# plt.show()
+plt.figure(figsize=(10, 10))
+plt.imshow(img1)
+plt.show()
 
 
 # access pixel value of image
